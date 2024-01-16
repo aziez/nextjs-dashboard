@@ -15,7 +15,7 @@ export default function AcmeLogo() {
         height={120}
         className=" m-3 h-12 w-12"
       />
-      <p className="text-[44px]">Go-Design</p>
+      <p className="text-[40px] ">Design</p>
     </div>
   );
 }
